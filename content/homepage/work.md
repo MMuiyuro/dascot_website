@@ -1,9 +1,9 @@
 ---
-title: 'We Help Business Grow'
+title: 'What we do'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'images/PB0_4926.jpg'
 button: 'Our Work'
 buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+At Dascot Limited, we want to ensure that the best data are used to inform sustainable and effective conservation. We look to collaborate and build long-lasting partnerships in our quest to be part of effective, tangible conservation outcomes. We are uniquely placed to be able to work with partners across scales, from grassroots organisations and civil society to international NGOs, governments and academic institutions.

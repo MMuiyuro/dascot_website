@@ -2,8 +2,21 @@
 align: left
 background: https://source.unsplash.com/_v-EHHKKW3w/1600x700
 date: "2018-12-06T09:29:16+10:00"
-title: Integrity & Performance
+title: Our Values
 weight: 2
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian.
+Science - based with a focus on data science
+
+Trust - we’re here for the long run
+
+Bridge - grassroots to the top
+
+Reputable - deliver world class quality
+
+Results driven - finding realistic economic, ecological, socially just solutions
+
+Nurturing - developing a talented team
+
+
+

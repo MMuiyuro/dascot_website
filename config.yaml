@@ -1,6 +1,6 @@
 baseURL: https://www.example.com/
 languageCode: en-us
-title: Hugo Hero Theme
+title: Dascot Limited
 theme: hugo-hero-theme
 module:
   hugoVersion:
@@ -9,12 +9,10 @@ module:
 params:
   google_analytics_id: ''
   homepage_meta_tags:
-    meta_description: Hero is a multipurpose Hugo theme with fullscreen hero images
-      and page sections. It contains content types for a business or portfolio site.
-    meta_og_description: Hero is a multipurpose Hugo theme with fullscreen hero images
-      and page sections. It contains content types for a business or portfolio site.
+    meta_description: Data driven solutions for conservations in East Africa.
+    meta_og_description: Data driven solutions for conservations in East Africa.
     meta_og_image: https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png
-    meta_og_title: Hugo Hero Theme
+    meta_og_title: Dascot Limited
     meta_og_type: website
     meta_og_url: https://hugo-hero.netlify.app
     meta_twitter_card: summary
@@ -22,10 +20,10 @@ params:
     meta_twitter_site: '@zerostaticio'
   logo:
     alt: Hugo Hero
-    desktop: images/logo.svg
+    desktop: images/logo.PNG
     desktop_height: 29px
     desktop_width: 217px
-    mobile: images/logo-mobile.svg
+    mobile: images/logo.PNG
     mobile_height: 36px
     mobile_width: 36px
 menu:
@@ -39,7 +37,7 @@ menu:
     - name: About
       url: /about/
       weight: 3
-    - name: History
+    - name: Research Portfolio
       url: /history/
       weight: 3
     - name: Contact

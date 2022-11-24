@@ -6,4 +6,6 @@ button: 'About Us'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+A highly qualified group of data-scientists, social scientists, M&E experts, and
+business experts, who are passionate about improving conservation decision
+making through sound data.

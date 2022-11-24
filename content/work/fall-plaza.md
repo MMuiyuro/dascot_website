@@ -1,9 +1,9 @@
 ---
 date: "2018-11-18T12:33:46+10:00"
 draft: false
-heroBackground: work/work1.jpg
-heroHeading: Fall Plaza
-heroSubHeading: Revitalising a public space in Spain.
+heroBackground: images/Print-9477.jpg
+heroHeading: Our Work
+heroSubHeading: Data Science for Conservation
 images:
 - https://source.unsplash.com/random/400x600/?nature
 - https://source.unsplash.com/random/400x300/?travel
@@ -11,8 +11,8 @@ images:
 - https://source.unsplash.com/random/400x600/?buildings
 - https://source.unsplash.com/random/400x300/?city
 - https://source.unsplash.com/random/400x600/?business
-thumbnail: work/work1-thumbnail.jpg
-title: Fall Plaza
+thumbnail: images/2_elephants.jpg
+title: Our Work
 weight: 1
 ---
 

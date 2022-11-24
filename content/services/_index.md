@@ -1,7 +1,7 @@
 ---
 date: "2018-02-10T11:52:18+07:00"
-heroBackground: https://source.unsplash.com/eluzJSfkNCk/1600x400
+heroBackground: images/Insta-6214.jpg
 heroHeading: Services
-heroSubHeading: Services that grow with your business
+heroSubHeading: We use cutting edge analyses, statistics, machine learning, and visualization to help you understand what your data is saying
 title: Services
 ---
